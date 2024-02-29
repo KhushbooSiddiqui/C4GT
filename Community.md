@@ -18,6 +18,26 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Khushboo</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/KhushbooSiddiqui</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/Khushboo-Siddiqui-7664a278</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute, Janakpuri</td>
+  </tr>
+</table>
+
 <table>
       <tr>
         <td>Name</td>
